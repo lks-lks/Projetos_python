@@ -1,4 +1,4 @@
-<h1>Projetos iniciantes em python </h1>
+<h1>Projetos básicos em python </h1>
 
 Alguns projetos que estão sendo produzidos enquanto aprimoro o conhecimento na linguagem.
 
