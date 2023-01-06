@@ -44,7 +44,7 @@ def imprime_mensagem_de_abertura():
 
 
 def carrega_palavra_secreta():
-    arquivo = open("palavras.txt", "r")
+    arquivo = open("palavras.txt", "r") #é necessário ter um arquivo com o nome palavras.txt na pasta onde fica o script
     palavras = []
 
     for linha in arquivo:
