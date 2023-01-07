@@ -23,7 +23,7 @@ def jogar():
             erros += 1
             desenha_forca(erros)
         
-        enforcou = erros == 7
+        enforcou = erros == 7 #alterado para 7
         acertou = "_" not in letras_acertadas
         
         print(letras_acertadas)
@@ -124,7 +124,7 @@ def desenha_forca(erros):
 
     if(erros == 2):
         print(" |      (_)   ")
-        print(" |       |    ")
+        print(" |       |    ") #alterado a posição do corpo
         print(" |            ")
         print(" |            ")
 
