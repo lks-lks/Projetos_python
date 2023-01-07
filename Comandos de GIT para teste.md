@@ -13,3 +13,15 @@ Apenas commits aleatórios.
 5 
 
 Contando de 1 a 5.
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Contando de 6 a 10.
